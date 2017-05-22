@@ -5,6 +5,7 @@ Personal site (github version) for latest projects and repositories.
 
 ## About
 ==========
+
 * List of GitHub repositories:
 	- <a href="https://github.com/NajlaBH">NajlaBH</a>: Newest developement projects repositories.
 	- <a href="https://github.com/NajlaBioinfo">NajlaBioinfo</a>: Oldest developement and fork of bioinformatics projects repositories.
@@ -13,12 +14,15 @@ Personal site (github version) for latest projects and repositories.
 	
 ## Usage
 ==========
+
 <pre><code style='background: #C0C0C0;'>git clone https://github.com/NajlaBH/githubCVsite.git</code></pre>
 
 ## Authors & Maintainer
 ====================
+
 BEN HASSINE Najla.
 
 ## License
 ========
+
 MIT License.
